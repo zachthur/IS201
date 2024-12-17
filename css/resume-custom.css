@@ -1,0 +1,32 @@
+/* Custom styles for resume */
+body header.masthead {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    color: #fff;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../assets/img/beach.jpg") !important;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+.timeline-panel {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.skills-section .fa-stack {
+    margin-bottom: 25px;
+}
+
+.contact-section {
+    background-color: #f8f9fa;
+}
+
+.text-muted {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
